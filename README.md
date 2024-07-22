@@ -11,8 +11,5 @@ E-commerce platforms like **Unicorn** allow people to buy products online: from 
 The following dataset includes Unicorn sales data from the years 2015-2018. 
 </br>
 </br>
-Link to dataset: 
-[Unicorn_Dataset]('postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn')
-
-postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
+Link to dataset: postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn
 
